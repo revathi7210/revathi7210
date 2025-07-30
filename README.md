@@ -25,11 +25,11 @@ I’m a backend and systems enthusiast currently pursuing my Master’s in Compu
 **Tools & Frameworks**: Flask · Docker · Jenkins · Git · SQLAlchemy  
 **Systems & Debugging**: Linux · `gdb` · `perf` · Valgrind · InfluxDB · Grafana  
 
-I use tools that give me visibility into what's going on—and let me fix what isn’t.
+I use tools that give me visibility into what's going on and let me fix what isn’t.
 
 ## 🤝 Let's Connect
 
-If you're into distributed systems, backend infrastructure, or just love chasing down tough bugs — I’d love to connect or collaborate.
+If you're into distributed systems, backend infrastructure, or just love chasing down tough bugs  I’d love to connect or collaborate.
 
 📫 [LinkedIn](https://www.linkedin.com/in/ranemaja)  
 💬 Email: ranemaja@uci.edu
